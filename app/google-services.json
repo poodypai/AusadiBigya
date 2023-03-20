@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "452394498644",
+    "project_id": "ausadi-bigya-42da3",
+    "storage_bucket": "ausadi-bigya-42da3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452394498644:android:16092bb286f3ffb9564bc1",
+        "android_client_info": {
+          "package_name": "com.example.ausadibigya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452394498644-hk6rf73huuen7kj2nevto1mc4eoj5q0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmTy0GVIU_wcz2eP_iQyrfksnpNUF2zBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452394498644-hk6rf73huuen7kj2nevto1mc4eoj5q0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

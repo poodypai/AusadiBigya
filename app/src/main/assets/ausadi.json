@@ -1,0 +1,75 @@
+{
+  "ALLORIC":	
+   {
+	"GenericName":"Allopurinol", 
+	 "Treatment":"Gout", 
+	 "SideEffects":"Skin rash, Serious hypersensitivity",
+	 "Warnings":"Treatment should be stopped immediately if any skin reactions or signs of hypersensitivity develops, Dosage should be reduced in renal or hepatic impairment, Should not be used in acute gout attack except when acute attacks occur in patients already taking the drug and the acute attack is treated separately",
+	 "DirectionOfUse":"Swallow the tablet whole by mouth. You can take it with or without food but it is better to take at a fixed time. Don't crush, chew or break the tablet. Follow the dose and duration as prescribed by the doctor"	
+    },
+    
+    "PARACETAMOL":
+   {
+   	"GenericName":"Paracetamol",
+   	"Treatment":"Headache, Migraine, Fever, Sore throat, Cold & flu",
+   	"SideEffects":"Skin rashes, Swelling of the throat, tongue or face, Shortness of breath or wheezing",
+   	"Warnings":"Do not take paracetamol if you are taking any other prescription or non-prescription medications containing paracetamol or acetaminophen",
+   	"DirectionOfUse":"Always use exactly as your doctor or pharmacist tells you to, Do not take more than the recommended dose, Paracetamol may be taken every 4 to 6 hours. Leave at least 4 hours between doses"
+   }
+    
+    ,"IBUPROFEN":
+   {
+   	"GenericName":"Ibuprofen",
+   	"Treatment":"Fever, Pain, Inflammation",
+   	"SideEffects":"Nausea, Headache, Gas, Vomiting",
+   	"Warnings":"Ibuprofen can increase your risk of fatal heart attack or stroke. Do not use this medicine just before or after heart bypass surgery (coronary artery bypass graft, or CABG)",
+   	"DirectionOfUse":"Use ibuprofen exactly as directed on the label, or as prescribed by your doctor. Use the lowest dose that is effective in treating your condition"
+   }
+    
+    ,"ASPIRIN":
+   {
+   	"GenericName":"Aspirin",
+   	"Treatment":"Pain, Fever, Inflammation.",
+   	"SideEffects":"Hallucinations, Severe nausea, Fever, Stomach pain",
+   	"Warnings":"Do not give this medication to a child or teenager with a fever, flu symptoms, or chickenpox. Salicylates can cause Reye's syndrome, a serious and sometimes fatal condition in children.",
+   	"DirectionOfUse":"You must chew the chewable tablet before you swallow it, Always follow directions on the medicine label about giving aspirin to a child."
+   }
+    
+    ,"DICLOFENAC":
+   {
+   	"GenericName":"Diclofenac",
+   	"Treatment":"Pain",
+   	"SideEffects":"Flu-like symptoms, Skin rash, Nausea, Painful or difficult urination",
+   	"Warnings":"You should not use diclofenac if you have a history of allergic reaction to aspirin or NSAIDs (non-steroidal anti-inflammatory drugs)",
+   	"DirectionOfUse":"Take diclofenac exactly as prescribed by your doctor, Use the lowest dose that is effective in treating your condition"
+   }
+    
+
+      ,"LOPERAMIDE":
+   {
+   	"GenericName":"Loperamide",
+   	"Treatment":"Diarrhea",
+   	"SideEffects":"Nausea, Constipation, Dizziness",
+   	"Warnings":"You should not use loperamide if you have ulcerative colitis, bloody or tarry stools, diarrhea with a high fever, or diarrhea caused by antibiotic medication, TAKING TOO MUCH LOPERAMIDE CAN CAUSE SERIOUS HEART PROBLEMS",
+   	"DirectionOfUse":"Use loperamide exactly as directed on the label, or as prescribed by your doctor"
+   }
+   
+    ,"DULCOLAX LAXATIVE":
+   {
+   	"GenericName":"Bisacody",
+   	"Treatment":"Constipation",
+   	"SideEffects":"Stomach pain, Rectal burning",
+   	"Warnings":"You should not use Dulcolax if you are allergic to bisacodyl, or if you have: stomach pain, nausea, or vomiting",
+   	"DirectionOfUse":"Use Dulcolax Laxatice as prescribed by your doctor."
+   }
+    
+    ,"ACILOC":
+   {
+   	"GenericName":"Ranitidine",
+   	"Treatment":"Ulcer",
+   	"SideEffects":"dizziness, rash, tiredness, headache",
+   	"Warnings":"",
+   	"DirectionOfUse":"Aciloc Tablet & Syrup: The usual dosage is 150 mg twice daily taken in the morning and evening or 300 mg as a single daily dose at night for 4 to 8 weeks"
+   }
+    
+}
